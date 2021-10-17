@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "noEmitOnError": true,
+    "removeComments": true,
+    "target": "ES2017",
+    "allowJs": true,
+    "sourceMap": true,
+    "noStrictGenericChecks": true,
+    "strictNullChecks": false,
+    "strictFunctionTypes": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "outDir": "ts_out",
+    "skipLibCheck": true
+  },
+  "include": [
+    "./src"
+  ]
+}

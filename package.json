@@ -1,0 +1,16 @@
+{
+  "name": "code_with_me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ts_out/main.js",
+  "scripts": {
+    "start": "tsc && node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "4.4.4"
+  }
+}
